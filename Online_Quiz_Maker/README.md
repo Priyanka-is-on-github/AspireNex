@@ -2,7 +2,7 @@
 ## Tech Stack:
 ###  React, MaterialUI, Postgres
 
-#Images of The Online Quiz Maker:
+## Images of The Online Quiz Maker:
 ![Screenshot_4-7-2024_134232_localhost](https://github.com/Priyanka-is-on-github/AspireNex/assets/120199836/989c8f70-5b50-41b6-8851-9a4e84a485a2)
 ![Screenshot_4-7-2024_134256_localhost](https://github.com/Priyanka-is-on-github/AspireNex/assets/120199836/febd55d7-e569-427e-842a-6bddd13682a3)
 ![Screenshot_4-7-2024_13451_localhost](https://github.com/Priyanka-is-on-github/AspireNex/assets/120199836/228ac748-3d2b-486d-af00-a1229a926aa1)
